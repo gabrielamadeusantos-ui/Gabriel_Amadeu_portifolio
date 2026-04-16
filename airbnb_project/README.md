@@ -27,6 +27,7 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
 
 ## 💡 Key Insights
 * **Revenue Leaders:** Properties classified as "Entire Homes" outperform private rooms by an average of 45% in Dublin.
+* **Long-term rents importance:** Long-term properties, even though in Airbnb, still have the greatest capacity of bringing estable income.
 
 
 ## 📂 Project Files
