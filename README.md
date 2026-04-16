@@ -20,7 +20,7 @@ A comprehensive study of the short-term rental market in Dublin, focusing on rev
 * **The Problem:** Identifying high-yield property types in a market with restricted geographical data.
 * **The Solution:** Built an ETL pipeline in Python to clean raw data and created related thoughtfull insights.
 * **Outcome:** Identified that specific property configurations yield 20% higher revenue regardless of location.
-* **[View Project Repository](./airbnb-dublin-analysis) | [Live Dashboard](#)** (Link your NovyPro/Public link here later)
+* **[View Project Repository](./airbnb_project) 
 
 ---
 
