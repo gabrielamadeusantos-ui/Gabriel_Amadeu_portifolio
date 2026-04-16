@@ -5,8 +5,8 @@ import numpy as np
 
 # --- CONFIGURATION & PATHS ---
 DATA_URL = "https://data.insideairbnb.com/ireland/leinster/dublin/2025-09-16/data/listings.csv.gz"
-DB_PATH = r"C:\Users\gabri\OneDrive\Desktop\Airbnb_Dublin\Files\Listings.db"
-OUTPUT_CSV = r"C:\Users\gabri\OneDrive\Desktop\Airbnb_Dublin\Files\test_file.csv"
+DB_PATH = r"C:\Users\gabri\OneDrive\Desktop\Airbnb_Dublin\Files\Listings_DB.db"
+OUTPUT_CSV = r"C:\Users\gabri\OneDrive\Desktop\Airbnb_Dublin\Files\listings_csv.csv"
 OUTPUT_DROPPED_CSV = r"C:\Users\gabri\OneDrive\Desktop\Airbnb_Dublin\Files\dropped_items.csv"
 
 # --- 1. EXTRACTION ---
