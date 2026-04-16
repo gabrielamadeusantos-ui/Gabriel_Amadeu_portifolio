@@ -7,7 +7,8 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
 1.  **Data Extraction & Cleaning (Python):**
     * Extracted the data from the online repository.
     * Handled missing values in price and rating columns.
-    * Removed misleading data that was negatively impacting the analysis 
+    * Removed misleading data that was negatively impacting the analysis
+    * Transfered all the removed data to a auditable repository for tracking purpouses.
     * Standardized currency and date formats for time-series analysis.
     * Created calculated columns to generate key insights.
       
