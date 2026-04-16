@@ -18,6 +18,11 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
 5.  **Visualization (Power BI):**
     * Developed an interactive dashboard focusing on **Revenue per Available Room (RevPAR)** and **Occupancy Rates**.
     * Designed the dashboard based on the client's visual identity.
+  
+6. **Result:**
+   <img width="1494" height="840" alt="image" src="https://github.com/user-attachments/assets/118d64ec-150b-4abd-a487-2f072b9e2e4f" />
+   <img width="1493" height="844" alt="image" src="https://github.com/user-attachments/assets/dbbbefb1-0761-4a01-9f0c-f4010d841600" />
+
 
 ## 💡 Key Insights
 * **Revenue Leaders:** Properties classified as "Entire Homes" outperform private rooms by an average of 45% in Dublin.
