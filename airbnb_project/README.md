@@ -31,5 +31,5 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
 
 
 ## 📂 Project Files
-* [Python ETL scripts.](./scripts)
-* [Power BI (.pbix) file and PDF.](./dashboard)
+* [Python ETL scripts.](./Scripts)
+* [Power BI (.pbix) file and PDF.](./Dashboard)
