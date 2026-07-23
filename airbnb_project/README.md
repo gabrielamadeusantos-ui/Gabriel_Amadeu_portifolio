@@ -25,6 +25,13 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
    <img width="1493" height="844" alt="image" src="https://github.com/user-attachments/assets/dbbbefb1-0761-4a01-9f0c-f4010d841600" />
 
 
+
+
+
+   <img width="1407" height="791" alt="p1" src="https://github.com/user-attachments/assets/601de033-94e6-4a3d-8217-745dec16113b" />
+   <img width="1385" height="789" alt="p2" src="https://github.com/user-attachments/assets/19bfaac1-7fa1-4736-8d1a-f91f5424e98a" />
+   <img width="1389" height="787" alt="p3" src="https://github.com/user-attachments/assets/3875b5d4-b78b-4c61-b821-85874244ea54" />
+
 ## 💡 Key Insights
 * **Revenue Leaders:** Properties classified as "Entire Homes" outperform private rooms by an average of 45% in Dublin.
 * **Long-term rents importance:** Long-term properties, even though in Airbnb, still have the greatest capacity of bringing estable income.
