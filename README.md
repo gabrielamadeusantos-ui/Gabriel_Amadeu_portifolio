@@ -27,6 +27,8 @@ I'm a passionate Data Engineer and Analyst with a strong background in audit and
 ### 🌍 Real-Time Global Earthquake Monitoring
 **End-to-end serverless data pipeline for ingesting, processing, and visualizing global seismic activity in near real-time.**
 
+**🎥 Explanation Video**
+
 [![Watch the video](https://img.youtube.com/vi/NdRpZVuqV8Y/0.jpg)](https://youtu.be/NdRpZVuqV8Y)
 
 - **Business Challenge:** Ingest and visualize a high-volume stream of global earthquake data while operating within a strict free-tier budget and maintaining efficient query performance.
