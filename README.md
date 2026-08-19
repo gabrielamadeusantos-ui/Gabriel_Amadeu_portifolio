@@ -49,6 +49,8 @@ I'm a passionate Data Engineer and Analyst with a strong background in audit and
 ### 🏥 Healthcare Data Pipeline & Analytics
 **A complete ETL pipeline designed to simulate real-world healthcare data ingestion and generate decision-oriented insights.**
 
+<img width="1255" height="703" alt="image" src="https://github.com/user-attachments/assets/d313732b-01cc-40c1-bea4-eb4b127a8e17" />
+
 - **Business Challenge:** Transform a consolidated, static dataset into a dynamic, incremental processing environment to mirror how data is typically ingested in real-world healthcare systems, where new data arrives periodically.
 
 - **Technical Solution:**
