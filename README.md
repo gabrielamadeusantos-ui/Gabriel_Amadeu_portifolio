@@ -71,7 +71,7 @@ I'm a passionate Data Engineer and Analyst with a strong background in audit and
 ### 📈 Airbnb Dublin: Revenue & Performance Analysis
 **A comprehensive analysis of the short-term rental market in Dublin, focusing on key drivers of revenue and occupancy rates.**
 
-<img width="1407" height="300" alt="Airbnb Dashboard" src="https://github.com/user-attachments/assets/601de033-94e6-4a3d-8217-745dec16113b" />
+<img width="1407" height="791" alt="image" src="https://github.com/user-attachments/assets/07d1c756-1707-4a5c-8130-ee3d699a2355" />
 
 - **Business Challenge:** Help potential investors and hosts understand which property attributes contribute most to monthly revenue and occupancy rates in the Dublin market, a market with restricted geographical data.
 
