@@ -28,7 +28,7 @@ I thrive at the intersection of engineering and analytics, creating end-to-end s
 
 ## 🚀 Featured Projects  
 
-### 🌍 Real-Time Global Earthquake Monitoring  
+##🌍 Real-Time Global Earthquake Monitoring  
 **End-to-end serverless data pipeline for ingesting, processing, and visualizing global seismic activity in near real-time.**  
 
 📺 [**Watch the Explanation Video**](https://youtu.be/NdRpZVuqV8Y)  
@@ -56,7 +56,7 @@ A cost-free, fully automated system that provides a macro-level, real-time view 
 
 ---
 
-### 🏥 Healthcare Data Pipeline & Analytics  
+## 🏥 Healthcare Data Pipeline & Analytics  
 **A complete ETL pipeline designed to simulate real-world healthcare data ingestion and generate decision-oriented insights.**  
 
 <img width="1255" height="703" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/d313732b-01cc-40c1-bea4-eb4b127a8e17" />  
@@ -82,7 +82,7 @@ Delivered a scalable data service that bridges the gap between raw data and busi
 
 ---
 
-### 📈 Airbnb Dublin: Revenue & Performance Analysis  
+## 📈 Airbnb Dublin: Revenue & Performance Analysis  
 **A comprehensive analysis of the short-term rental market in Dublin, focusing on key drivers of revenue and occupancy rates.**  
 
 <img width="1407" height="791" alt="Airbnb Dashboard" src="https://github.com/user-attachments/assets/07d1c756-1707-4a5c-8130-ee3d699a2355" />  
