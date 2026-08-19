@@ -28,7 +28,7 @@ I thrive at the intersection of engineering and analytics, creating end-to-end s
 
 ## 🚀 Featured Projects  
 
-##🌍 Real-Time Global Earthquake Monitoring  
+## 🌍 Real-Time Global Earthquake Monitoring  
 **End-to-end serverless data pipeline for ingesting, processing, and visualizing global seismic activity in near real-time.**  
 
 📺 [**Watch the Explanation Video**](https://youtu.be/NdRpZVuqV8Y)  
