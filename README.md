@@ -33,6 +33,8 @@ I thrive at the intersection of engineering and analytics, creating end-to-end s
 
 📺 [**Watch the Explanation Video**](https://youtu.be/NdRpZVuqV8Y)  
 
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/ae88adcd-ab4f-4500-a9b1-93e05b5cb576" />
+
 #### 🧩 Business Challenge  
 Ingest and visualize a high-volume stream of global earthquake data while operating within a strict free-tier budget and maintaining efficient query performance.  
 
